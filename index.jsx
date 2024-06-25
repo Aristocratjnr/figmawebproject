@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './reset.css'; // assuming you have reset.min.css saved as reset.css in your project
 import './index.css'; // assuming any custom styles would go here
+import './global.css'; // assuming any global styles would go here
 
 // Load Google Fonts
 const loadGoogleFont = () => {
