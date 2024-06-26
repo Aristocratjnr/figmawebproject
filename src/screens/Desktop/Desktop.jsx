@@ -17,9 +17,7 @@ export const Desktop = () => {
         </div>
         <div className="text-wrapper">Tibet Five set Couch</div>
         <p className="p">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet
-          odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-          Curabitur tempus urna at turpis condimentum lobortis.
+        This is a modern and stylish couch, perfect for any living room. It provides excellent comfort and support for your family and guests. The design blends well with various interior styles.
         </p>
         <div className="overlap">
           <div className="text-wrapper-2">Sackln Cloth</div>
