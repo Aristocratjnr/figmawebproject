@@ -1,5 +1,5 @@
 import React from 'react';
-import Index from '.';
+import Index from '../src/index.js';
 
 const App = () => {
   return (
