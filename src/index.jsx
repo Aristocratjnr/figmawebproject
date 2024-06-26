@@ -1,21 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './reset.css'; // assuming you have reset.min.css saved as reset.css in your project
-import './index.css'; // assuming any custom styles would go here
-import './global.css'; // assuming any global styles would go here
-
-// Load Google Fonts
-const loadGoogleFont = () => {
-  const link = document.createElement('link');
-  link.href = 'https://fonts.googleapis.com/css?family=Poppins:400';
-  link.rel = 'stylesheet';
-  document.head.appendChild(link);
-};
-
-// Load styles on component mount
-React.useEffect(() => {
-  loadGoogleFont();
-}, []);
+import GoogleFontLoader from './GoogleFontLoader';
+import './reset.css'; // Assuming the reset styles are saved as reset.css
+import './index.css'; // Any custom styles
 
 const App = () => {
   return (
@@ -26,4 +13,10 @@ const App = () => {
 };
 
 // Render the App component to the DOM
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(
+  <>
+    <GoogleFontLoader />
+    <App />
+  </>,
+  document.getElementById('root')
+);
