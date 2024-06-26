@@ -30,13 +30,13 @@
     width: 1440px;
   }
   
-.div-wrapper,
-.frame-6 {
-  cursor: pointer;
-  padding: 10px 20px;
-  display: inline-block;
-}
-
+  .div-wrapper,
+  .frame-6 {
+    cursor: pointer;
+    padding: 10px 20px;
+    display: inline-block;
+  }
+  
 .div-wrapper:focus,
 .frame-6:focus,
 .div-wrapper:hover,
