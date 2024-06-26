@@ -1,9 +1,10 @@
 import React from 'react';
+import Index from '.';
 
 const App = () => {
   return (
-    <div id="root">
-      
+    <div>
+      <Index />
       {/* Your app content goes here */}
     </div>
   );
