@@ -10,6 +10,10 @@ export const Desktop = () => {
     alert("Pre-order section clicked!");
   };
 
+  const handleColorClick = (color) => {
+    alert(`${color} color clicked!`);
+  };
+
   return (
     <div className="desktop">
       <div className="div">
@@ -43,6 +47,11 @@ export const Desktop = () => {
         </div>
         <div className="text-wrapper-7">Overview</div>
         <div className="text-wrapper-8">Available Colors</div>
+        <div className="colors">
+          <div className="color" onClick={() => handleColorClick('Red')} style={{ backgroundColor: 'red' }} />
+          <div className="color" onClick={() => handleColorClick('Blue')} style={{ backgroundColor: 'blue' }} />
+          <div className="color" onClick={() => handleColorClick('Green')} style={{ backgroundColor: 'green' }} />
+        </div>
         <div className="frame-2" />
         <div className="frame-3" />
         <div className="frame-4" />
