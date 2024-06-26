@@ -2,6 +2,14 @@ import React from "react";
 import "./style.css";
 
 export const Desktop = () => {
+  const handleBuyClick = () => {
+    alert("Buy button clicked!");
+  };
+
+  const handlePreOrderClick = () => {
+    alert("Pre-order button clicked!");
+  };
+
   return (
     <div className="desktop">
       <div className="div">
@@ -15,12 +23,12 @@ export const Desktop = () => {
             />
           </div>
         </div>
-        <div className="text-wrapper">Tibet Five set Couch</div>
+        <div className="text-wrapper">Tibet Five-seater Couch</div>
         <p className="p">
-        This is a modern and stylish couch, perfect for any living room. It provides excellent comfort and support for your family and guests. The design blends well with various interior styles.
+          This is a modern and stylish couch, perfect for any living room. It provides excellent comfort and support for your family and guests. The design blends well with various interior styles.
         </p>
         <div className="overlap">
-          <div className="text-wrapper-2">Sackln Cloth</div>
+          <div className="text-wrapper-2">Sackcloth</div>
           <div className="text-wrapper-3">Type of Materials Used</div>
         </div>
         <div className="overlap-2">
@@ -40,10 +48,14 @@ export const Desktop = () => {
         <div className="frame-4" />
         <div className="frame-5" />
         <div className="div-wrapper">
-          <div className="text-wrapper-9">Buy</div>
+          <button className="buy-button" onClick={handleBuyClick}>
+            Buy
+          </button>
         </div>
         <div className="frame-6">
-          <div className="text-wrapper-10">Pre-order</div>
+          <button className="pre-order-button" onClick={handlePreOrderClick}>
+            Pre-order
+          </button>
         </div>
         <div className="ellipse-2" />
         <div className="ellipse-3" />
