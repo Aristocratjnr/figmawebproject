@@ -1,22 +1,20 @@
-/* Imported from the original HTML file */
 * {
-    -webkit-font-smoothing: antialiased;
-    box-sizing: border-box;
-  }
-  
-  html,
-  body {
-    margin: 0;
-    height: 100%;
-  }
-  
-  /* A blue color as a generic focus style */
-  button:focus-visible {
-    outline: 2px solid #4a90e2 !important;
-    outline: -webkit-focus-ring-color auto 5px !important;
-  }
-  
-  a {
-    text-decoration: none;
-  }
-  
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
+
+/* A blue color as a generic focus style */
+button:focus-visible {
+  outline: 2px solid #4a90e2 !important;
+  outline: -webkit-focus-ring-color auto 5px !important;
+}
+
+a {
+  text-decoration: none;
+}
