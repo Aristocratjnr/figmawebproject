@@ -27,6 +27,7 @@
     "@storybook/react": "7.0.3",
     "@storybook/react-webpack5": "7.0.3",
     "@storybook/testing-library": "0.2.0",
+    "@types/react-dom": "^18.3.0",
     "htmlnano": "2.0.3",
     "parcel": "^2.8.0",
     "parcel-reporter-static-files-copy": "^1.5.0",

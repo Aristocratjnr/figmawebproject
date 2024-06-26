@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import GoogleFontLoader from './GoogleFontLoader';
-import './reset.css'; // Assuming the reset styles are saved as reset.css
-import './index.css'; // Any custom styles
-import './global.css'; // Any global styles
+import './reset.css'; 
+import './index.css'; 
+import './global.css'; 
 
 const App = () => {
   return (
