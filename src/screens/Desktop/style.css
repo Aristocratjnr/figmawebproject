@@ -30,6 +30,20 @@
     width: 1440px;
   }
   
+.div-wrapper,
+.frame-6 {
+  cursor: pointer;
+  padding: 10px 20px;
+  display: inline-block;
+}
+
+.div-wrapper:focus,
+.frame-6:focus,
+.div-wrapper:hover,
+.frame-6:hover {
+  background-color: #f0f0f0; /* Example hover effect */
+}
+
   .desktop .frame {
     background-image: url(https://c.animaapp.com/Zo7kpJCa/img/frame-81.png);
     background-position: 50% 50%;
