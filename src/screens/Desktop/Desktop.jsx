@@ -3,11 +3,11 @@ import "./style.css";
 
 export const Desktop = () => {
   const handleBuyClick = () => {
-    alert("Buy button clicked!");
+    alert("Buy section clicked!");
   };
 
   const handlePreOrderClick = () => {
-    alert("Pre-order button clicked!");
+    alert("Pre-order section clicked!");
   };
 
   return (
@@ -47,15 +47,11 @@ export const Desktop = () => {
         <div className="frame-3" />
         <div className="frame-4" />
         <div className="frame-5" />
-        <div className="div-wrapper">
-          <button className="buy-button" onClick={handleBuyClick}>
-            Buy
-          </button>
+        <div className="div-wrapper" onClick={handleBuyClick} role="button" tabIndex={0} onKeyPress={handleBuyClick}>
+          <div className="text-wrapper-9">Buy</div>
         </div>
-        <div className="frame-6">
-          <button className="pre-order-button" onClick={handlePreOrderClick}>
-            Pre-order
-          </button>
+        <div className="frame-6" onClick={handlePreOrderClick} role="button" tabIndex={0} onKeyPress={handlePreOrderClick}>
+          <div className="text-wrapper-10">Pre-order</div>
         </div>
         <div className="ellipse-2" />
         <div className="ellipse-3" />
