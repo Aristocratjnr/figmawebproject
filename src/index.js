@@ -5,8 +5,8 @@ import GoogleFontLoader from './GoogleFontLoader';
 import './reset.css';
 import './index.css';
 
-const container = document.getElementById('root');
-console.log(container); 
+const index = document.getElementById('root');
+console.log(index); 
 const root = createRoot(container);
 
 root.render(
@@ -15,3 +15,4 @@ root.render(
     <App />
   </>
 );
+export default index;
