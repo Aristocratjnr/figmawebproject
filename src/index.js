@@ -1,23 +1,16 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import { createRoot } from 'react-dom/client';
+import App from './App';
 import GoogleFontLoader from './GoogleFontLoader';
 import './reset.css';
-import './index.css'; 
-import './global.css'; 
+import './index.css';
 
-const App = () => {
-  return (
-    <div id="app">
-      {/* Your app content goes here */}
-    </div>
-  );
-};
+const container = document.getElementById('root');
+const root = createRoot(container);
 
-// Render the App component to the DOM
-ReactDOM.render(
+root.render(
   <>
     <GoogleFontLoader />
     <App />
-  </>,
-  document.getElementById('root')
+  </>
 );
