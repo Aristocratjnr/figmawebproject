@@ -37,6 +37,10 @@
     display: inline-block;
   }
   
+  .section {
+    margin-bottom: 20px; /* Adjust the value as needed */
+  }
+
 .div-wrapper:focus,
 .frame-6:focus,
 .div-wrapper:hover,
