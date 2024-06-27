@@ -1,0 +1,1042 @@
+.product-listing-k {
+    background-color: #fffffff7;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .product-listing-k .div {
+    background-color: #fffffff7;
+    height: 3145px;
+    overflow: hidden;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .product-listing-k .overlap {
+    height: 636px;
+    left: -658px;
+    position: absolute;
+    top: 630px;
+    width: 1654px;
+  }
+  
+  .product-listing-k .overlap-group {
+    height: 636px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1453px;
+  }
+  
+  .product-listing-k .overlap-2 {
+    height: 636px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1228px;
+  }
+  
+  .product-listing-k .unsplash {
+    height: 428px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 144px;
+    width: 772px;
+  }
+  
+  .product-listing-k .frame {
+    background-image: url(./frame-17.svg);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 270px;
+    left: 720px;
+    position: absolute;
+    top: 366px;
+    width: 328px;
+  }
+  
+  .product-listing-k .overlap-wrapper {
+    background-image: url(./frame-12.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 300px;
+    left: 720px;
+    position: absolute;
+    top: 0;
+    width: 508px;
+  }
+  
+  .product-listing-k .overlap-3 {
+    height: 85px;
+    position: relative;
+    top: 215px;
+  }
+  
+  .product-listing-k .img {
+    height: 80px;
+    left: 0;
+    position: absolute;
+    top: 5px;
+    width: 508px;
+  }
+  
+  .product-listing-k .text-wrapper {
+    color: #222222;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    height: 52px;
+    left: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 371px;
+  }
+  
+  .product-listing-k .frame-2 {
+    height: 34px;
+    left: 4px;
+    position: absolute;
+    top: 42px;
+    width: 207px;
+  }
+  
+  .product-listing-k .text-wrapper-2 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 17px;
+    left: 77px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 12px;
+    width: 36px;
+  }
+  
+  .product-listing-k .overlap-group-2 {
+    height: 17px;
+    left: 153px;
+    position: absolute;
+    top: 12px;
+    width: 38px;
+  }
+  
+  .product-listing-k .text-wrapper-3 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 17px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 31px;
+  }
+  
+  .product-listing-k .tabler-meter-square {
+    height: 15px;
+    left: 23px;
+    position: absolute;
+    top: 2px;
+    width: 15px;
+  }
+  
+  .product-listing-k .tabler-arrows {
+    height: 25px;
+    left: 124px;
+    position: absolute;
+    top: 5px;
+    width: 25px;
+  }
+  
+  .product-listing-k .ellipse {
+    background-color: #000000c9;
+    border-radius: 12.5px;
+    height: 25px;
+    left: 11px;
+    position: absolute;
+    top: 5px;
+    width: 25px;
+  }
+  
+  .product-listing-k .game-icons-duration {
+    height: 25px;
+    left: 48px;
+    position: absolute;
+    top: 5px;
+    width: 25px;
+  }
+  
+  .product-listing-k .overlap-group-wrapper {
+    background-color: #ffffff;
+    height: 76px;
+    left: 720px;
+    position: absolute;
+    top: 560px;
+    width: 328px;
+  }
+  
+  .product-listing-k .overlap-4 {
+    height: 73px;
+    position: relative;
+    top: -1px;
+  }
+  
+  .product-listing-k .ph-heart-light {
+    height: 25px;
+    left: 295px;
+    position: absolute;
+    top: 44px;
+    width: 25px;
+  }
+  
+  .product-listing-k .overlap-5 {
+    height: 73px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 328px;
+  }
+  
+  .product-listing-k .text-wrapper-4 {
+    color: #222222;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    height: 42px;
+    left: 6px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 322px;
+  }
+  
+  .product-listing-k .frame-3 {
+    height: 34px;
+    left: 0;
+    position: absolute;
+    top: 39px;
+    width: 202px;
+  }
+  
+  .product-listing-k .ellipse-2 {
+    background-color: #7d869e;
+    border-radius: 12.5px;
+    height: 25px;
+    left: 11px;
+    position: absolute;
+    top: 5px;
+    width: 25px;
+  }
+  
+  .product-listing-k .frame-wrapper {
+    background-image: url(./frame-18.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 270px;
+    left: 1125px;
+    position: absolute;
+    top: 366px;
+    width: 328px;
+  }
+  
+  .product-listing-k .div-wrapper {
+    background-color: #ffffff;
+    height: 76px;
+    position: relative;
+    top: 194px;
+  }
+  
+  .product-listing-k .overlap-6 {
+    height: 73px;
+    position: relative;
+    top: -1px;
+    width: 328px;
+  }
+  
+  .product-listing-k .ellipse-3 {
+    background-color: #b38b7063;
+    border-radius: 12.5px;
+    height: 25px;
+    left: 11px;
+    position: absolute;
+    top: 5px;
+    width: 25px;
+  }
+  
+  .product-listing-k .frame-4 {
+    background-image: url(./frame-14.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 298px;
+    left: 1283px;
+    position: absolute;
+    top: 2px;
+    width: 371px;
+  }
+  
+  .product-listing-k .frame-5 {
+    background-color: #ffffff;
+    height: 76px;
+    position: relative;
+    top: 222px;
+  }
+  
+  .product-listing-k .overlap-7 {
+    height: 73px;
+    left: 6px;
+    position: relative;
+    top: -1px;
+    width: 365px;
+  }
+  
+  .product-listing-k .ph-heart-light-2 {
+    height: 25px;
+    left: 319px;
+    position: absolute;
+    top: 43px;
+    width: 25px;
+  }
+  
+  .product-listing-k .overlap-8 {
+    height: 73px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 365px;
+  }
+  
+  .product-listing-k .text-wrapper-5 {
+    color: #222222;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    height: 42px;
+    left: 11px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 354px;
+  }
+  
+  .product-listing-k .ellipse-4 {
+    background-color: #845b0b;
+    border-radius: 12.5px;
+    height: 25px;
+    left: 11px;
+    position: absolute;
+    top: 5px;
+    width: 25px;
+  }
+  
+  .product-listing-k .overlap-9 {
+    background-image: url(./frame-15.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 300px;
+    left: 1052px;
+    position: absolute;
+    top: 630px;
+    width: 328px;
+  }
+  
+  .product-listing-k .frame-6 {
+    background-color: #ffffff;
+    height: 76px;
+    position: relative;
+    top: 224px;
+  }
+  
+  .product-listing-k .text-wrapper-6 {
+    color: #222222;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    height: 42px;
+    left: 11px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 317px;
+  }
+  
+  .product-listing-k .ellipse-5 {
+    background-color: #a7b9c7;
+    border-radius: 12.5px;
+    height: 25px;
+    left: 11px;
+    position: absolute;
+    top: 5px;
+    width: 25px;
+  }
+  
+  .product-listing-k .ph-heart-light-3 {
+    height: 25px;
+    left: 286px;
+    position: absolute;
+    top: 43px;
+    width: 25px;
+  }
+  
+  .product-listing-k .frame-7 {
+    background-color: #ffffff;
+    height: 118px;
+    left: 0;
+    position: absolute;
+    top: 512px;
+    width: 1440px;
+  }
+  
+  .product-listing-k .overlap-group-3 {
+    height: 66px;
+    left: 300px;
+    position: relative;
+    top: 27px;
+    width: 867px;
+  }
+  
+  .product-listing-k .KITCHEN-LIVING-ROOM {
+    color: #000000;
+    font-family: "Poppins-ExtraLight", Helvetica;
+    font-size: 20px;
+    font-weight: 200;
+    height: 66px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 867px;
+  }
+  
+  .product-listing-k .line {
+    height: 1px;
+    left: 155px;
+    object-fit: cover;
+    position: absolute;
+    top: 55px;
+    width: 35px;
+  }
+  
+  .product-listing-k .frame-8 {
+    background-image: url(./frame-16.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 270px;
+    left: 870px;
+    position: absolute;
+    top: 996px;
+    width: 510px;
+  }
+  
+  .product-listing-k .overlap-10 {
+    height: 85px;
+    position: relative;
+    top: 185px;
+  }
+  
+  .product-listing-k .frame-9 {
+    height: 80px;
+    left: 0;
+    position: absolute;
+    top: 5px;
+    width: 510px;
+  }
+  
+  .product-listing-k .text-wrapper-7 {
+    color: #222222;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    height: 52px;
+    left: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 371px;
+  }
+  
+  .product-listing-k .frame-10 {
+    height: 34px;
+    left: 6px;
+    position: absolute;
+    top: 42px;
+    width: 207px;
+  }
+  
+  .product-listing-k .ellipse-6 {
+    background-color: #496d83;
+    border-radius: 12.5px;
+    height: 25px;
+    left: 11px;
+    position: absolute;
+    top: 5px;
+    width: 25px;
+  }
+  
+  .product-listing-k .frame-11 {
+    background-image: url(./frame-19.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 272px;
+    left: 62px;
+    position: absolute;
+    top: 1332px;
+    width: 405px;
+  }
+  
+  .product-listing-k .frame-12 {
+    background-color: #ffffff;
+    height: 76px;
+    position: relative;
+    top: 196px;
+  }
+  
+  .product-listing-k .ph-heart-light-4 {
+    height: 25px;
+    left: 365px;
+    position: absolute;
+    top: 43px;
+    width: 25px;
+  }
+  
+  .product-listing-k .overlap-11 {
+    height: 73px;
+    left: 0;
+    position: absolute;
+    top: -1px;
+    width: 328px;
+  }
+  
+  .product-listing-k .ellipse-7 {
+    background-color: #774204;
+    border-radius: 12.5px;
+    height: 25px;
+    left: 11px;
+    position: absolute;
+    top: 5px;
+    width: 25px;
+  }
+  
+  .product-listing-k .overlap-12 {
+    height: 519px;
+    left: 1029px;
+    position: absolute;
+    top: 1332px;
+    width: 352px;
+  }
+  
+  .product-listing-k .frame-13 {
+    height: 519px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 351px;
+  }
+  
+  .product-listing-k .overlap-13 {
+    height: 519px;
+    position: relative;
+  }
+  
+  .product-listing-k .TWO-SET-KITCHEN {
+    color: #ffffff;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 73px;
+    left: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 445px;
+    width: 321px;
+  }
+  
+  .product-listing-k .frame-14 {
+    background-image: url(./frame-20.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 519px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 351px;
+  }
+  
+  .product-listing-k .frame-15 {
+    background-color: #ffffff;
+    height: 76px;
+    left: 0;
+    position: absolute;
+    top: 443px;
+    width: 352px;
+  }
+  
+  .product-listing-k .overlap-14 {
+    height: 73px;
+    position: relative;
+    top: -1px;
+    width: 334px;
+  }
+  
+  .product-listing-k .ph-heart-light-5 {
+    height: 25px;
+    left: 309px;
+    position: absolute;
+    top: 44px;
+    width: 25px;
+  }
+  
+  .product-listing-k .ellipse-8 {
+    background-color: #000000;
+    border-radius: 12.5px;
+    height: 25px;
+    left: 11px;
+    position: absolute;
+    top: 5px;
+    width: 25px;
+  }
+  
+  .product-listing-k .overlap-15 {
+    height: 519px;
+    left: 556px;
+    position: absolute;
+    top: 1332px;
+    width: 384px;
+  }
+  
+  .product-listing-k .frame-16 {
+    height: 519px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 384px;
+  }
+  
+  .product-listing-k .TWO-SET-KITCHEN-wrapper {
+    background-image: url(./frame-21.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 519px;
+    position: relative;
+  }
+  
+  .product-listing-k .p {
+    color: #ffffff;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 73px;
+    left: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 445px;
+    width: 321px;
+  }
+  
+  .product-listing-k .frame-17 {
+    background-color: #ffffff;
+    height: 76px;
+    left: 0;
+    position: absolute;
+    top: 443px;
+    width: 384px;
+  }
+  
+  .product-listing-k .ellipse-9 {
+    background-color: #774204ba;
+    border-radius: 12.5px;
+    height: 25px;
+    left: 11px;
+    position: absolute;
+    top: 5px;
+    width: 25px;
+  }
+  
+  .product-listing-k .ph-heart-fill {
+    height: 25px;
+    left: 328px;
+    position: absolute;
+    top: 42px;
+    width: 25px;
+  }
+  
+  .product-listing-k .frame-18 {
+    background-image: url(./frame-25.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 363px;
+    left: 556px;
+    position: absolute;
+    top: 1917px;
+    width: 825px;
+  }
+  
+  .product-listing-k .frame-19 {
+    background-color: #ffffff;
+    height: 76px;
+    position: relative;
+    top: 287px;
+  }
+  
+  .product-listing-k .ph-heart-light-6 {
+    height: 25px;
+    left: 778px;
+    position: absolute;
+    top: 47px;
+    width: 25px;
+  }
+  
+  .product-listing-k .ellipse-10 {
+    background-color: #f7e8d580;
+    border-radius: 12.5px;
+    height: 25px;
+    left: 11px;
+    position: absolute;
+    top: 5px;
+    width: 25px;
+  }
+  
+  .product-listing-k .frame-20 {
+    background-color: #ffffff;
+    height: 76px;
+    left: 62px;
+    position: absolute;
+    top: 2698px;
+    width: 772px;
+  }
+  
+  .product-listing-k .ph-heart-light-7 {
+    height: 25px;
+    left: 717px;
+    position: absolute;
+    top: 43px;
+    width: 25px;
+  }
+  
+  .product-listing-k .frame-21 {
+    background-color: #ffffff;
+    height: 210px;
+    left: 0;
+    position: absolute;
+    top: 2935px;
+    width: 1440px;
+  }
+  
+  .product-listing-k .line-2 {
+    height: 1px;
+    left: 62px;
+    object-fit: cover;
+    position: absolute;
+    top: 105px;
+    width: 1316px;
+  }
+  
+  .product-listing-k .ph-meta-logo-thin {
+    height: 90px;
+    left: 62px;
+    position: absolute;
+    top: 15px;
+    width: 89px;
+  }
+  
+  .product-listing-k .frame-22 {
+    height: 50px;
+    left: 997px;
+    position: absolute;
+    top: 37px;
+    width: 381px;
+  }
+  
+  .product-listing-k .frame-23 {
+    background-color: #ffffff;
+    height: 40px;
+    left: 62px;
+    position: absolute;
+    top: 127px;
+    width: 423px;
+  }
+  
+  .product-listing-k .solar-copyright {
+    height: 30px;
+    left: 9px;
+    position: absolute;
+    top: 5px;
+    width: 30px;
+  }
+  
+  .product-listing-k .text-wrapper-8 {
+    color: #0000005e;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    height: 31px;
+    left: 49px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 2px;
+    width: 345px;
+  }
+  
+  .product-listing-k .privacy-policy-terms {
+    color: #0000005e;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    height: 31px;
+    left: 930px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 129px;
+    width: 451px;
+  }
+  
+  .product-listing-k .frame-24 {
+    background-image: url(./frame-24.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 272px;
+    left: 62px;
+    position: absolute;
+    top: 1670px;
+    width: 405px;
+  }
+  
+  .product-listing-k .ellipse-11 {
+    background-color: #416573;
+    border-radius: 12.5px;
+    height: 25px;
+    left: 11px;
+    position: absolute;
+    top: 5px;
+    width: 25px;
+  }
+  
+  .product-listing-k .frame-25 {
+    background-image: url(./frame-27.svg);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 272px;
+    left: 62px;
+    position: absolute;
+    top: 2008px;
+    width: 405px;
+  }
+  
+  .product-listing-k .ellipse-12 {
+    background-color: #54533f;
+    border-radius: 12.5px;
+    height: 25px;
+    left: 11px;
+    position: absolute;
+    top: 5px;
+    width: 25px;
+  }
+  
+  .product-listing-k .frame-26 {
+    background-color: #00000033;
+    height: 428px;
+    left: 914px;
+    position: absolute;
+    top: 2346px;
+    width: 467px;
+  }
+  
+  .product-listing-k .overlap-16 {
+    background-image: url(./frame-28.svg);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 428px;
+  }
+  
+  .product-listing-k .frame-27 {
+    background-color: #ffffff;
+    height: 76px;
+    position: relative;
+    top: 352px;
+    width: 467px;
+  }
+  
+  .product-listing-k .ph-heart-light-8 {
+    height: 25px;
+    left: 413px;
+    position: absolute;
+    top: 43px;
+    width: 25px;
+  }
+  
+  .product-listing-k .ellipse-13 {
+    background-color: #b68a66;
+    border-radius: 12.5px;
+    height: 25px;
+    left: 11px;
+    position: absolute;
+    top: 5px;
+    width: 25px;
+  }
+  
+  .product-listing-k .frame-28 {
+    background-color: #cccccc;
+    border-radius: 50px;
+    height: 120px;
+    left: 1410px;
+    position: absolute;
+    top: 1573px;
+    width: 4px;
+  }
+  
+  .product-listing-k .overlap-17 {
+    height: 512px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .product-listing-k .ABOUT {
+    background-image: url(./ABOUT.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 510px;
+    left: 0;
+    position: absolute;
+    top: 2px;
+    width: 1440px;
+  }
+  
+  .product-listing-k .text-wrapper-9 {
+    color: #000000;
+    font-family: "Poppins-Light", Helvetica;
+    font-size: 60px;
+    font-weight: 300;
+    height: 98px;
+    left: 62px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 411px;
+    width: 472px;
+  }
+  
+  .product-listing-k .nave {
+    height: 90px;
+    left: 60px;
+    position: absolute;
+    top: 0;
+    width: 1320px;
+  }
+  
+  .product-listing-k .ph-meta-logo-thin-2 {
+    height: 90px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 89px;
+  }
+  
+  .product-listing-k .pages {
+    height: 31px;
+    left: 241px;
+    position: absolute;
+    top: 30px;
+    width: 598px;
+  }
+  
+  .product-listing-k .HOME-ABOUT-SERVICES {
+    color: #ffffff;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 24px;
+    left: 76px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 2px;
+  }
+  
+  .product-listing-k .line-3 {
+    height: 1px;
+    left: 592px;
+    object-fit: cover;
+    position: absolute;
+    top: 61px;
+    width: 35px;
+  }
+  
+  .product-listing-k .frame-29 {
+    background-color: #d9d9d999;
+    height: 42px;
+    left: 991px;
+    position: absolute;
+    top: 24px;
+    width: 230px;
+  }
+  
+  .product-listing-k .iconamoon-search {
+    height: 24px;
+    left: 196px;
+    position: absolute;
+    top: 9px;
+    width: 24px;
+  }
+  
+  .product-listing-k .text-wrapper-10 {
+    color: #00000073;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 17px;
+    left: 10px;
+    letter-spacing: 0.96px;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 12px;
+    width: 177px;
+  }
+  
+  .product-listing-k .icon-park-outline {
+    height: 31px;
+    left: 1247px;
+    position: absolute;
+    top: 30px;
+    width: 31px;
+  }
+  
+  .product-listing-k .line-4 {
+    height: 42px;
+    left: 1238px;
+    object-fit: cover;
+    position: absolute;
+    top: 24px;
+    width: 1px;
+  }
+  
+  .product-listing-k .iconamoon-profile {
+    height: 31px;
+    left: 1289px;
+    position: absolute;
+    top: 30px;
+    width: 31px;
+  }
