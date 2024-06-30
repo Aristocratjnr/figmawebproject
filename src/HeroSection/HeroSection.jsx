@@ -143,12 +143,11 @@ export const HeroSection = () => {
           <img className="mingcute-finger" alt="Mingcute finger" src="mingcute-finger-press-line.svg" />
           <img className="mage-stars-c" alt="Mage stars c" src="mage-stars-c.svg" />
           <p className="text-wrapper-17">
-            Jorem ipsum dolor sit amet,stra, per inceptos himenaeos. Curabitur tempus urna at turpis condimentum
-            lobortis.
+          
           </p>
           <div className="text-wrapper-18">LAYOUTING</div>
-          <img className="ph-hammer-thin" alt="Ph hammer thin" src="ph-hammer-thin.svg" />
-          <img className="ph-hands-clapping" alt="Ph hands clapping" src="ph-hands-clapping-thin.svg" />
+          <img className="ph-hammer-thin" alt="Ph hammer thin" src="src\HeroSection\assets\ph-hammer-thin.svg" />
+          <img className="ph-hands-clapping" alt="Ph hands clapping" src="src\HeroSection\assets\ph-hands-clapping-thin.svg" />
           <div className="frame-7">
             <div className="text-wrapper-19">Contact Us</div>
           </div>
@@ -175,9 +174,9 @@ export const HeroSection = () => {
         <div className="frame-9">
           <img className="line-11" alt="Line" src="line-10.svg" />
           <img className="ph-meta-logo-thin-2" alt="Ph meta logo thin" src="ph-meta-logo-thin.svg" />
-          <img className="frame-10" alt="Frame" src="frame-9.svg" />
+          <img className="frame-10" alt="Frame" src="src\HeroSection\assets\frame-9.svg" />
           <div className="frame-11">
-            <img className="solar-copyright" alt="Solar copyright" src="solar-copyright-outline.svg" />
+            <img className="solar-copyright" alt="Solar copyright" src="src\HeroSection\assets\solar-copyright-outline.svg" />
             <p className="text-wrapper-24">Copyright 2024, All Right Reserved</p>
           </div>
           <div className="privacy-policy-terms">
