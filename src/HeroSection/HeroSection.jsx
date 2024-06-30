@@ -162,7 +162,7 @@ export const HeroSection = () => {
           <img className="ph-dots-three" alt="Ph dots three" src="ph-dots-three-outline-thin.svg" />
         </div>
         <div className="frame-9">
-          <img className="line-11" alt="Line" src="line-10.svg" />
+          <img className="line-11" alt="Line" src="src\HeroSection\assets\line-10.svg" />
           <img className="ph-meta-logo-thin-2" alt="Ph meta logo thin" src="ph-meta-logo-thin.svg" />
           <img className="frame-10" alt="Frame" src="src\HeroSection\assets\frame-9.svg" />
           <div className="frame-11">
