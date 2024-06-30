@@ -6,4 +6,5 @@ import { Desktop } from "./screens/Desktop";
 
 const app = document.getElementById("app");
 const root = ReactDOMClient.createRoot(app);
-root.render(<Desktop />);
+root.render
+(<Desktop />);
