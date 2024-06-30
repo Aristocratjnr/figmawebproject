@@ -409,7 +409,7 @@
 }
 
 .hero-section .ABOUT-2 {
-  background-image: url(src\HeroSection\assets\about.png);
+  background-image: url(../../about.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 510px;
@@ -490,7 +490,7 @@
 }
 
 .hero-section .frame-5 {
-  background-image: url(src\HeroSection\assets\frame-4.svg);
+  background-image: url(../../frame-4.svg);
   background-position: 50% 50%;
   background-size: cover;
   height: 697px;
