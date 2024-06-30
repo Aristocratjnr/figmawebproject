@@ -929,7 +929,7 @@
 
 .hero-section .frame-8 {
   background-color: #b38b7029;
-  background-image: url(src\HeroSection\assets\frame-7.png);
+  background-image: url(../../frame-7.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 464px;
