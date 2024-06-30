@@ -46,10 +46,7 @@ export const HeroSection = () => {
           <div className="overlap-2">
             <div className="text-wrapper-5">WHO WE ARE</div>
             <p className="qorem-ipsum-dolor">
-              Qorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac
-              aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent&nbsp;&nbsp;conubia nostra, per
-              inceptos himenaeos. Curabitur tempus urna at turpis condimentum lobortis. Ut commodo efficitur neque. Ut
-              diam quam, semper iaculis condimentum ac, vestibulum eu nisl.
+             
             </p>
           </div>
           <div className="text-wrapper-6">15</div>
@@ -155,10 +152,7 @@ export const HeroSection = () => {
               <div className="overlap-7">
                 <div className="text-wrapper-21">“</div>
                 <p className="text-wrapper-22">
-                  Forem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac
-                  aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
-                  himenaeos. Curabitur tempus urna at turpis condimentum lobortis. Ut commodo efficitur neque. Ut diam
-                  quam, semper iaculis condimentum ac, vestibulum eu nisl.
+                 
                 </p>
                 <img className="eos-icons-three-dots" alt="Eos icons three dots" />
               </div>
