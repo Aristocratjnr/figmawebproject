@@ -119,20 +119,16 @@ export const HeroSection = () => {
             we do.
           </div>
           <p className="text-wrapper-10">
-            Jorem ipsum dolor sit amet,stra, per inceptos himenaeos. Curabitur tempus urna at turpis condimentum
-            lobortis.
+           
           </p>
           <p className="text-wrapper-11">
-            Jorem ipsum dolor sit amet,stra, per inceptos himenaeos. Curabitur tempus urna at turpis condimentum
-            lobortis.
+           
           </p>
           <p className="text-wrapper-12">
-            Jorem ipsum dolor sit amet,stra, per inceptos himenaeos. Curabitur tempus urna at turpis condimentum
-            lobortis.
+           
           </p>
           <p className="text-wrapper-13">
-            Jorem ipsum dolor sit amet,stra, per inceptos himenaeos. Curabitur tempus urna at turpis condimentum
-            lobortis.
+          
           </p>
           <img className="line-8" alt="Line" src="line-3.svg" />
           <img className="line-9" alt="Line" src="line-4.svg" />
