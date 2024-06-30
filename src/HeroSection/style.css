@@ -118,6 +118,17 @@
   width: 31px;
 }
 
+.hero-section .HOME {
+  background-color: #00000033;
+  background-image: url(../../home.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 510px;
+  left: 0;
+  position: absolute;
+  top: 90px;
+  width: 1440px;
+}
 
 .hero-section .div-wrapper {
   border: 1px solid;
@@ -241,6 +252,16 @@
   width: 659px;
 }
 
+.hero-section .frame-4 {
+  background-image: url(src\HeroSection\assets\frame-5.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 389px;
+  left: 47px;
+  position: absolute;
+  top: 39px;
+  width: 659px;
+}
 
 .hero-section .overlap-2 {
   height: 317px;
@@ -387,6 +408,17 @@
   width: 81px;
 }
 
+.hero-section .ABOUT-2 {
+  background-image: url(src\HeroSection\assets\about.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 510px;
+  left: 0;
+  position: absolute;
+  top: 1520px;
+  width: 1440px;
+}
+
 .hero-section .OUR-GALLERY {
   color: #000000;
   font-family: "Poppins-Medium", Helvetica;
@@ -457,6 +489,16 @@
   width: 1011px;
 }
 
+.hero-section .frame-5 {
+  background-image: url(src\HeroSection\assets\frame-4.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 697px;
+  left: 807px;
+  position: absolute;
+  top: 104px;
+  width: 512px;
+}
 
 .hero-section .element-free-consultation {
   color: #000000;
@@ -885,6 +927,17 @@
   width: 1440px;
 }
 
+.hero-section .frame-8 {
+  background-color: #b38b7029;
+  background-image: url(src\HeroSection\assets\frame-7.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 464px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
 
 .hero-section .overlap-6 {
   height: 297px;
