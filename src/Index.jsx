@@ -9,5 +9,5 @@ import { HeroSection } from "./HeroSection/HeroSection";
 const app = document.getElementById("app");
 const root = ReactDOMClient.createRoot(app);
 root.render
-(<><Desktop /><HeroSection /></>
+(<><HeroSection /><Desktop /></>
 );
