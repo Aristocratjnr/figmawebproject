@@ -253,7 +253,7 @@
 }
 
 .hero-section .frame-4 {
-  background-image: url(src\HeroSection\assets\frame-5.svg);
+  background-image: url(../../frame-5.svg);
   background-position: 50% 50%;
   background-size: cover;
   height: 389px;
