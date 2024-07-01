@@ -29,12 +29,12 @@ export const HeroSection = () => {
             <div className="text-wrapper-2">Shop Ready Stock</div>
           </div>
           <div className="overlap-group">
-            <div className="text-wrapper-3">Kayujati</div>
+            <div className="text-wrapper-3"></div>
             <div className="where-comfort-meets">
-              Where Comfort <br />
-              Meets Craftsmanship
+             <br />
+              
             </div>
-            <div className="text-wrapper-4">For Urban Living</div>
+            <div className="text-wrapper-4"></div>
             <img className="line-2" alt="Line" src="src/HeroSection/assets/line-5.svg" />
           </div>
         </div>
