@@ -179,9 +179,10 @@ export const HeroSection = () => {
           <div className="overlap-8">
             <div className="text-wrapper-25">FAQs</div>
             <div className="sign-in-circle-light">
+              
               <div className="overlap-group-3">
                 <img className="ellipse" alt="Ellipse" src="ellipse-47.svg" />
-                <img className="vector-2" alt="Vector" src="vector-9.svg" />
+                <img className="vector-2" alt="Vector" src="src\HeroSection\assets\vector-9.svg" />
               </div>
             </div>
             <p className="text-wrapper-26">Do you offer delivery services?</p>
