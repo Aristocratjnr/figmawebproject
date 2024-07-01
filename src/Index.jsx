@@ -10,5 +10,5 @@ import { ProductListingK } from "./ProjectList";
 const app = document.getElementById("app");
 const root = ReactDOMClient.createRoot(app);
 root.render
-(<><HeroSection /></>
+(<><HeroSection /><Desktop /><ProductListingK /></>
 );
