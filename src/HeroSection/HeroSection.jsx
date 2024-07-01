@@ -6,7 +6,7 @@ export const HeroSection = () => {
     <div className="hero-section">
       <div className="div">
         <div className="nave">
-          <img className="ph-meta-logo-thin" alt="Ph meta logo thin" src="ph-meta-logo-thin.svg" />
+          <img className="ph-meta-logo-thin" alt="Ph meta logo thin" src="src\HeroSection\assets\ph-meta-logo-thin.svg" />
           <div className="pages">
             <div className="HOME-ABOUT-SERVICES">
               HOME&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ABOUT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SERVICES&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COLLECTION&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CONTACT
@@ -18,15 +18,15 @@ export const HeroSection = () => {
             <p className="text-wrapper">What are you looking for?</p>
           </div>
           <img className="icon-park-outline" alt="Icon park outline" src="src\HeroSection\assets\icon-park-outline-love-and-help.svg" />
-          <img className="img" alt="Line" src="line-1.svg" />
-          <img className="iconamoon-profile" alt="Iconamoon profile" src="iconamoon-profile-thin.svg" />
+          <img className="img" alt="Line" src="src\HeroSection\assets\line-1.svg" />
+          <img className="iconamoon-profile" alt="Iconamoon profile" src="src\HeroSection\assets\iconamoon-profile-thin.svg" />
         </div>
         <div className="HOME">
           <div className="div-wrapper">
-            <div className="text-wrapper-2">Pre-order Instead</div>
+            <div className="text-wrapper-2"></div>
           </div>
           <div className="frame-2">
-            <div className="text-wrapper-2">Shop Ready Stock</div>
+            <div className="text-wrapper-2"></div>
           </div>
           <div className="overlap-group">
             <div className="text-wrapper-3"></div>
