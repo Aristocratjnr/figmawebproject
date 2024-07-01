@@ -17,7 +17,7 @@ export const HeroSection = () => {
             <img className="iconamoon-search" alt="Iconamoon search" src="iconamoon-search-thin.svg" />
             <p className="text-wrapper">What are you looking for?</p>
           </div>
-          <img className="icon-park-outline" alt="Icon park outline" src="icon-park-outline-love-and-help.svg" />
+          <img className="icon-park-outline" alt="Icon park outline" src="src\HeroSection\assets\icon-park-outline-love-and-help.svg" />
           <img className="img" alt="Line" src="line-1.svg" />
           <img className="iconamoon-profile" alt="Iconamoon profile" src="iconamoon-profile-thin.svg" />
         </div>
