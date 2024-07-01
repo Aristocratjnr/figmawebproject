@@ -14,7 +14,7 @@ export const HeroSection = () => {
           </div>
           <img className="line" alt="Line" src="line-2.svg" />
           <div className="frame">
-            <img className="iconamoon-search" alt="Iconamoon search" src="iconamoon-search-thin.svg" />
+            <img className="iconamoon-search" alt="Iconamoon search" src="src\HeroSection\assets\iconamoon-search-thin.svg" />
             <p className="text-wrapper">What are you looking for?</p>
           </div>
           <img className="icon-park-outline" alt="Icon park outline" src="src\HeroSection\assets\icon-park-outline-love-and-help.svg" />
@@ -148,7 +148,7 @@ export const HeroSection = () => {
         <div className="overlap-5">
           <div className="frame-8">
             <div className="overlap-6">
-              <div className="text-wrapper-20">WHAT OTHERS ARE SAYING</div>
+              <div className="text-wrapper-20"></div>
               <div className="overlap-7">
                 <div className="text-wrapper-21">“</div>
                 <p className="text-wrapper-22">
@@ -157,7 +157,7 @@ export const HeroSection = () => {
                 <img className="eos-icons-three-dots" alt="Eos icons three dots" />
               </div>
             </div>
-            <div className="text-wrapper-23">Radans</div>
+            <div className="text-wrapper-23"></div>
           </div>
           <img className="ph-dots-three" alt="Ph dots three" src="ph-dots-three-outline-thin.svg" />
         </div>
