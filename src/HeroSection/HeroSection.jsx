@@ -35,7 +35,7 @@ export const HeroSection = () => {
               Meets Craftsmanship
             </div>
             <div className="text-wrapper-4">For Urban Living</div>
-            <img className="line-2" alt="Line" src="line-5.svg" />
+            <img className="line-2" alt="Line" src="src/HeroSection/assets/line-5.svg" />
           </div>
         </div>
         <div className="ABOUT">
